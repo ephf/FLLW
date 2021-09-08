@@ -1,0 +1,22 @@
+{
+  "name": "fllw",
+  "version": "1.0.0",
+  "description": "👋 FLLW is an auto-run package for spwn! whenever you save a `.spwn` file, the program will close Geometry Dash, compile the designated file (using spwn), and run Geometry Dash.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ephf/FLLW.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ephf/FLLW/issues"
+  },
+  "homepage": "https://github.com/ephf/FLLW#readme",
+  "dependencies": {
+    "chokidar": "^3.5.2",
+    "colors": "^1.4.0",
+    "pkg": "^5.3.1"
+  }
+}
