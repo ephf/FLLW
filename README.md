@@ -1,8 +1,13 @@
 # FLLW <img src="fllw.png" width=25>
 
-👋 FLLW is an auto-run package for spwn! whenever you save a `.spwn` file, the program will close Geometry Dash, compile the designated file (using spwn), and run Geometry Dash.
+###### Welcome to FLLW 👋 
 
-⛔ since this is a `.exe` file, it will only work on windows.
+FLLW is an auto-run package for spwn! whenever you save a `.spwn` file, the program will close Geometry Dash, compile the designated file (using spwn), and run Geometry Dash.
+
+###### Support ⛔ 
+
+Since this is a `.exe` file, it will only work on windows.
+A mac build is currently being made 👷
 
 # run FLLW
 
